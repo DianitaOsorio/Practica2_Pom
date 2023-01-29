@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Comprar Un Portatil" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-29T01:17:54" hostname="SQAMED-88970" time="53.771">
+  <properties/>
+  <testcase name="el usuario  compra un portatil" classname="Comprar Un Portatil" time="53.771"/>
+  <system-out><![CDATA[Portatil 9HP Chromebook 14 G1(ENERGY STAR)
+Portatil 10HP Chromebook 14 G1(ES)
+Portatil 7HP ENVY - 17t Touch Laptop
+Portatil 6HP ENVY x360 - 15t Laptop
+Portatil 1HP Pavilion 15t Touch Laptop
+Portatil 2HP Pavilion 15z Laptop
+Portatil 3HP Pavilion 15z Touch Laptop
+Portatil 11HP Pavilion x360 - 11t Touch Laptop
+Portatil 4HP Spectre x360 - 13-4102dx
+Portatil 5HP Stream - 11-d020nr Laptop
+Portatil 8HP ZBook 17 G2 Mobile Workstation
+]]></system-out>
+  <system-err><![CDATA[ene 28, 2023 8:17:55 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --disable-popup-blocking,--..., goog:chromeOptions: {args: [--disable-popup-blocking, --incognito, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions, --disable-dev-shm-usage], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: }
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 16102
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 28, 2023 8:17:57 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: el usuario  compra un portatil
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
